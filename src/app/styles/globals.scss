@@ -1,0 +1,18 @@
+@import '@/app/styles/variables.scss';
+
+:root {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, Montserrat, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	line-height: 1.5;
+	color: $black;
+   background-color: $white;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+   font-family: $second-font;
+}
