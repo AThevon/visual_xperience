@@ -6,6 +6,7 @@
 ## Techs
 
 - Next.js
+- Typescript
 - SCSS
 - Three Fiber
 - Drei
